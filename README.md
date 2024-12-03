@@ -91,6 +91,7 @@ Unstage all files:
 git reset
 ```
 # GIT stash Commands
+<img src="https://github.com/user-attachments/assets/819d94ba-0f19-4208-80d3-125f2b1e6282" />
 > - git stash is a helpful Git command that temporarily saves your changes in the workspace without committing them, allowing you to switch branches or perform other tasks without losing your uncommitted work.<br/>
 > - You can then reapply (or "unstash") those changes when you're ready to continue working on them.<br/>
 
