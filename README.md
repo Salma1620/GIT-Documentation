@@ -72,6 +72,7 @@ git rm <file-name>
 ```
 
 # GIT stage commands
+<img src="https://github.com/user-attachments/assets/205121fe-b5e3-4517-8fc3-237e79a6e531" width="9000px"/> <br/>
 Add files from the workspace to the staging area (index) to prepare them for a commit:
 ```
 git add <file-name>
